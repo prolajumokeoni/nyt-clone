@@ -95,6 +95,7 @@ html {
 }
 
 .article-image {
+  position: relative;
   width: 80%;
   margin: 0 auto;
   padding-bottom: 30px;
@@ -110,7 +111,6 @@ article {
 }
 
 .author {
-  font-family: 'Franklin Gothic Medium';
   padding: 20px 0;
 }
 
@@ -119,7 +119,6 @@ article {
 }
 
 .body-article {
-  font-family: 'nyt-imperial';
   color: rgb(51, 51, 51);
   font-size: 1.2rem;
 }
@@ -139,9 +138,44 @@ article {
   padding-bottom: 10px;
   font-family: 'Times New Roman', Times, serif;
   font-weight: bolder;
-  color: rgb(50,104,145);
+  color: rgb(50, 104, 145);
 }
 
 .article-line {
   width: 15%;
+}
+
+aside {
+  position: absolute;
+  width: 20%;
+  right: 55px;
+  margin: auto;
+  margin-top: -30%;
+}
+
+.title-editor {
+  border-bottom: 1px solid rgb(100, 100, 100);
+}
+
+.editor-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.editor-img {
+  width: 30%;
+  margin: 10px;
+}
+
+.editor-img-cap {
+  color: rgb(51, 51, 51);
+  font-size: 14px;
+}
+
+.topic {
+  font-size: 20px;
+  font-weight: bolder;
+  color: rgb(51, 51, 51);
+  margin: 20px 0;
 }
