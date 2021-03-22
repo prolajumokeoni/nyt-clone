@@ -44,22 +44,52 @@ html {
 }
 
 .subscribe {
-    background-color: rgb(50, 104, 145);
-    border: rgb(0, 60, 105);
-    padding: 15px 40px;
-    position: relative;
-    font-size: 10px;
-    color: white;
-    border-radius: 5px;
-  }
+  background-color: rgb(50, 104, 145);
+  border: rgb(0, 60, 105);
+  padding: 7px 30px;
+  position: relative;
+  font-size: 10px;
+  color: white;
+  border-radius: 5px;
+}
 
-  .login {
-    padding: 15px 15px;
-    background-color: rgb(50, 104, 145);
-    border: rgb(0, 60, 105); 
-    position: relative;
-    font-size: 10px;
-    color: white;
-    border-radius: 5px;
-  }
-  
+.login {
+  padding: 7px 15px;
+  background-color: rgb(50, 104, 145);
+  border: rgb(0, 60, 105);
+  position: relative;
+  font-size: 10px;
+  color: white;
+  border-radius: 5px;
+}
+
+.reveal {
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+
+.social-icons {
+  display: flex;
+  align-items: center;
+  padding-left: 0;
+}
+
+.social-icons li {
+  list-style: none;
+  vertical-align: middle;
+}
+
+.social-link {
+  padding-right: 2rem;
+}
+
+.social-link a {
+  display: inline-block;
+  line-height: 30px;
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  border-radius: 50%;
+  background-color: #eee;
+}
