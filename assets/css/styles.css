@@ -93,3 +93,12 @@ html {
   border-radius: 50%;
   background-color: #eee;
 }
+
+.article-image {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.main-image {
+  width: 100%;
+}
