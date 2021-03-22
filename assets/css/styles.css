@@ -43,4 +43,23 @@ html {
   padding: 0 20px;
 }
 
+.subscribe {
+    background-color: rgb(50, 104, 145);
+    border: rgb(0, 60, 105);
+    padding: 15px 40px;
+    position: relative;
+    font-size: 10px;
+    color: white;
+    border-radius: 5px;
+  }
 
+  .login {
+    padding: 15px 15px;
+    background-color: rgb(50, 104, 145);
+    border: rgb(0, 60, 105); 
+    position: relative;
+    font-size: 10px;
+    color: white;
+    border-radius: 5px;
+  }
+  
