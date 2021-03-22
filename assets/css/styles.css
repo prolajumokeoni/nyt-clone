@@ -97,8 +97,51 @@ html {
 .article-image {
   width: 80%;
   margin: 0 auto;
+  padding-bottom: 30px;
 }
 
 .main-image {
   width: 100%;
+}
+
+article {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.author {
+  font-family: 'Franklin Gothic Medium';
+  padding: 20px 0;
+}
+
+.date {
+  padding: 20px 0;
+}
+
+.body-article {
+  font-family: 'nyt-imperial';
+  color: rgb(51, 51, 51);
+  font-size: 1.2rem;
+}
+
+.article-button-1 {
+  display: block;
+  text-align: center;
+  padding-top: 10px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bolder;
+  color: rgb(0, 0, 0);
+}
+
+.article-button-2 {
+  display: block;
+  text-align: center;
+  padding-bottom: 10px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bolder;
+  color: rgb(50,104,145);
+}
+
+.article-line {
+  width: 15%;
 }
