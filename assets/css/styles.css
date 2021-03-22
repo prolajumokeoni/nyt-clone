@@ -179,3 +179,39 @@ aside {
   color: rgb(51, 51, 51);
   margin: 20px 0;
 }
+
+.inflation-section {
+  width: 60%;
+  margin: 20px 50px 0 150px;
+  position: relative;
+}
+
+.sub-title-article {
+  line-height: 1;
+}
+
+.inflation {
+  background: url(../images/inflation-945.png);
+  background-repeat: no-repeat;
+  background-size: 1000px 648px;
+  width: 1000px;
+  height: 648px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.inflation-text {
+  display: block;
+  margin-top: 15%;
+  text-align: left;
+  width: 24%;
+  top: unset;
+  font-size: 20px;
+  line-height: 1;
+  color: rgb(51, 51, 51);
+}
+
+.article-hr {
+  width: 15%;
+}
