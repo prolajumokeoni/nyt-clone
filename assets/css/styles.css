@@ -145,7 +145,7 @@ article {
   width: 15%;
 }
 
-aside {
+.editor-aside {
   position: absolute;
   width: 20%;
   right: 55px;
@@ -249,4 +249,33 @@ aside {
   align-items: center;
   justify-content: space-between;
   margin: 0 auto;
+}
+
+.newsletter-section {
+  width: 90%;
+  margin: 0 auto;
+}
+.news-article {
+  width: 60%;
+  float: left;
+  border-top: 1px solid black;
+}
+
+.news-title {
+  display: inline;
+}
+
+.news-small {
+  display: inline;
+  margin-left: 43%;
+  color: #555;
+}
+
+.most-popular {
+  width: 30%;
+  float: right;
+}
+
+.popular-side {
+  border-top: 1px solid black;
 }
