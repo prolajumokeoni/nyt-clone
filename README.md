@@ -6,12 +6,12 @@
 
 # Screenshots
 
-- Desktop 
+### Header 
 ![desktop nytpage](https://user-images.githubusercontent.com/69638013/112220326-6c62eb00-8c26-11eb-8a89-2ffb5ef80630.PNG)
 
-- Footer 
+### Footer 
+![footer newyorktimespage ](https://user-images.githubusercontent.com/69638013/112222472-de3c3400-8c28-11eb-973a-d1916cd8f76b.png)
 
-![footer nytpage](https://user-images.githubusercontent.com/69638013/112219592-7f28f000-8c25-11eb-8e77-91da942876e6.PNG)
 
 
 ## Built With
