@@ -219,15 +219,34 @@ aside {
   margin-left: 15%;
 }
 
-
 .larry {
   margin-left: 15%;
   margin-bottom: 5%;
   color: #555;
 }
 
+.image-caption {
+  color: grey;
+}
+
 .youtube {
   margin: 0 auto;
   width: 650px;
   height: 400px;
+}
+
+.button {
+  background-color: #567b95;
+  text-align: center;
+  padding: 10px 60px;
+  border-radius: 3px;
+  border: 1px solid rgb(50, 104, 145);
+  color: white;
+}
+
+.bottom-article {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 auto;
 }
