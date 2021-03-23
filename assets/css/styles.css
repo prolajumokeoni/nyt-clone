@@ -259,6 +259,7 @@ article {
   width: 60%;
   float: left;
   border-top: 1px solid black;
+  border-bottom: 1px solid black;
 }
 
 .news-title {
@@ -278,4 +279,13 @@ article {
 
 .popular-side {
   border-top: 1px solid black;
+}
+
+.article-img {
+  width: 60px;
+  height: 60px;
+}
+
+.image-news {
+  display: flex;
 }
