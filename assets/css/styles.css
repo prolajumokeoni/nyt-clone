@@ -136,7 +136,8 @@ article {
 
 .body-article {
   color: rgb(51, 51, 51);
-  font-size: 1.2rem;
+  font-size: 1.3rem;
+  line-height: 2;
 }
 
 .article-button-1 {
@@ -161,6 +162,10 @@ article {
   width: 15%;
 }
 
+.champ {
+  color: #567b95;
+  text-decoration: underline;
+}
 .editor-aside {
   position: absolute;
   width: 20%;
@@ -238,7 +243,30 @@ article {
 .larry {
   margin-left: 15%;
   margin-bottom: 5%;
+  color: rgb(94, 92, 92);
+}
+
+.youtube-section {
+  padding-bottom: 30px;
+}
+
+.youtube-caption {
+  font-size: 1rem;
+}
+
+
+.cosmos-img {
+  padding-bottom: 30px;
+}
+
+.caption-bicep {
+  font-size: 1rem;
   color: #555;
+}
+
+.credit {
+  color: grey;
+  display: block;
 }
 
 .image-caption {
@@ -298,6 +326,21 @@ article {
   color: #555;
 }
 
+.captiton-title {
+  padding-top: 10px;
+  font-size: .8rem;
+}
+
+.caption-body {
+  padding-bottom: 10px;
+}
+
+.see {
+  padding-top: 50px;
+}
+.see-a {
+  color: #567b95;
+}
 .most-popular {
   width: 24%;
   float: right;
@@ -324,7 +367,7 @@ article {
 .news-border {
   width: 28%;
   padding: 10px;
-  height: 100%;
+  height: auto;
   border: 1px solid rgb(221, 215, 215);
 }
 
