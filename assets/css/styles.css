@@ -20,6 +20,7 @@ body,
 html {
   overflow-x: hidden;
 }
+
 .mobile-header {
   position: fixed;
   top: 0;
@@ -219,7 +220,7 @@ article {
 
 .inflation-text {
   display: block;
-  margin-top: 15%;
+  margin-top: 16%;
   text-align: left;
   width: 24%;
   top: unset;
