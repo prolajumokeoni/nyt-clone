@@ -258,34 +258,41 @@ article {
 }
 
 .news-article {
-  width: 65%;
+  width: 73%;
+  margin: 0 auto;
   float: left;
+}
+
+.header-news {
   border-top: 1px solid black;
-  border-bottom: 1px solid black;
+  padding: 10px 0;
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
 }
 
 .port {
   display: flex;
+  align-content: center;
   justify-content: space-between;
-}
-
-.news-title {
-  display: inline;
+  padding-bottom: 30px;
 }
 
 .news-small {
-  display: inline;
-  margin-left: 47%;
   color: #555;
 }
 
 .most-popular {
-  width: 30%;
+  width: 24%;
   float: right;
 }
 
-.popular-side {
+.popular-text {
+  padding: 7px 0 13px 0;
+  line-height: 1.5;
   border-top: 1px solid black;
+  font-size: 14px;
+  color: rgb(51, 51, 51);
 }
 
 .article-img {
@@ -299,14 +306,52 @@ article {
 }
 
 .news-border {
-  width: 30%;
-  margin: 10px 15px 10px 0;
+  width: 28%;
   padding: 10px;
+  height: 100%;
   border: 1px solid rgb(221, 215, 215);
 }
+
 .plus {
   margin-left: 20px;
 }
+
 .see {
   color: #567b95;
+}
+
+.astronomy {
+  border-top: 1px solid black;
+  padding: 10px 0;
+}
+
+.main-astronomy {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  flex-wrap: wrap;
+}
+
+.astronomy-flex {
+  width: 30%;
+  padding-bottom: 30px;
+}
+
+.astro {
+  width: 260px;
+  height: 180px;
+}
+
+.title-fig {
+  color: #555;
+  text-align: end;
+}
+
+.astro-text {
+  width: 100%;
+}
+
+.anchor-astro {
+  color: #555;
+  font-size: 12px;
 }
