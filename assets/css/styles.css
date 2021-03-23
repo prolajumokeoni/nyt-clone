@@ -181,13 +181,14 @@ aside {
 }
 
 .inflation-section {
-  width: 60%;
-  margin: 20px 50px 0 150px;
+  width: 70%;
   position: relative;
+  margin: 5% auto;
 }
 
 .sub-title-article {
-  line-height: 1;
+  line-height: 1.2;
+  color: rgb(100, 100, 100);
 }
 
 .inflation {
@@ -213,5 +214,20 @@ aside {
 }
 
 .article-hr {
-  width: 15%;
+  width: 10%;
+  border: 1px solid rgb(100, 100, 100);
+  margin-left: 15%;
+}
+
+
+.larry {
+  margin-left: 15%;
+  margin-bottom: 5%;
+  color: #555;
+}
+
+.youtube {
+  margin: 0 auto;
+  width: 650px;
+  height: 400px;
 }
