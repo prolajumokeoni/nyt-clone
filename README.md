@@ -7,7 +7,7 @@
 # Screenshots
 
 ### Header 
-![desktop nytpage](https://user-images.githubusercontent.com/69638013/112220326-6c62eb00-8c26-11eb-8a89-2ffb5ef80630.PNG)
+![desktop newyorktimespage](https://user-images.githubusercontent.com/69638013/112223114-c0230380-8c29-11eb-9bff-bb95c072d024.png)
 
 ### Footer 
 ![footer newyorktimespage ](https://user-images.githubusercontent.com/69638013/112222472-de3c3400-8c28-11eb-973a-d1916cd8f76b.png)
