@@ -255,6 +255,7 @@ article {
 .newsletter-section {
   width: 90%;
   margin: 0 auto;
+  padding-bottom: 40%;
 }
 
 .news-article {
@@ -354,4 +355,137 @@ article {
 .anchor-astro {
   color: #555;
   font-size: 12px;
+}
+
+footer {
+  margin: 0 auto;
+  width: 95%;
+  margin-top: 60%;
+}
+
+.footer-first-items {
+  list-style: none;
+  border-top-style: double;
+  border-color: rgb(110, 108, 108);
+}
+
+.footer-top {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  padding-top: 10px;
+}
+
+.home {
+  color: #567b95;
+}
+
+.mobile-footer {
+  list-style: none;
+  color: rgb(100, 100, 100);
+  font-size: 0.8rem;
+  font-weight: bolder;
+}
+
+.footer-text {
+  font-size: 0.7rem;
+  color: rgb(110, 108, 108);
+}
+
+.mobile {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding-left: 0;
+  list-style: none;
+}
+
+.more {
+  display: none;
+}
+
+.sub-list-base {
+  list-style: none;
+  border-left: 1px solid rgb(194, 191, 191);
+  padding-left: 15px;
+  color: rgb(51, 51, 51);
+  font-size: 0.8rem;
+  line-height: 1.8;
+}
+
+.listings {
+  line-height: 2;
+}
+
+.edu {
+  border-bottom: 1px solid rgb(184, 174, 174);
+}
+
+.lister {
+  list-style: none;
+  border-left: 1px solid rgb(194, 191, 191);
+  padding-left: 15px;
+  color: rgb(51, 51, 51);
+  font-weight: bolder;
+  font-size: 0.8rem;
+}
+
+.aside-icons {
+  padding-right: 5px;
+}
+
+.lister-f {
+  list-style: none;
+  font-weight: bolder;
+  color: black;
+  line-height: 3;
+}
+
+.subscribe-aside {
+  border-left: 1px solid rgb(194, 191, 191);
+  list-style: none;
+  color: rgb(100, 100, 100);
+  font-weight: bolder;
+  padding-left: 15px;
+}
+
+.sub-list {
+  display: block;
+  width: 100%;
+  padding-left: 0;
+  color: rgb(51, 51, 51);
+  font-size: 14px;
+  line-height: 1.8;
+}
+
+ul.sub-list li {
+  list-style: none;
+}
+
+.bottom-list {
+  border-top: 1px solid rgb(110, 108, 108);
+  display: flex;
+  width: 100%;
+}
+
+.footer-text-1 {
+  text-align: left;
+  width: 15%;
+}
+
+.footer-items {
+  list-style: none;
+  display: inline-block;
+}
+
+.footer-down {
+  text-align: end;
+  margin: 0;
+  padding-left: 0;
+}
+
+.footer-list {
+  font-size: 0.7rem;
+  color: rgb(110, 108, 108);
 }
