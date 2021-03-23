@@ -40,6 +40,10 @@ html {
   justify-content: space-between;
 }
 
+.space-cosmos  {
+  font-weight: bolder;
+}
+
 .left-position {
   display: flex;
   vertical-align: middle;
