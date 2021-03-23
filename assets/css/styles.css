@@ -13,6 +13,7 @@ section {
 
 a {
   text-decoration: none;
+  color: black;
 }
 
 body,
@@ -257,10 +258,15 @@ article {
 }
 
 .news-article {
-  width: 60%;
+  width: 65%;
   float: left;
   border-top: 1px solid black;
   border-bottom: 1px solid black;
+}
+
+.port {
+  display: flex;
+  justify-content: space-between;
 }
 
 .news-title {
@@ -269,7 +275,7 @@ article {
 
 .news-small {
   display: inline;
-  margin-left: 43%;
+  margin-left: 47%;
   color: #555;
 }
 
@@ -289,4 +295,18 @@ article {
 
 .image-news {
   display: flex;
+  justify-content: space-between;
+}
+
+.news-border {
+  width: 30%;
+  margin: 10px 15px 10px 0;
+  padding: 10px;
+  border: 1px solid rgb(221, 215, 215);
+}
+.plus {
+  margin-left: 20px;
+}
+.see {
+  color: #567b95;
 }
