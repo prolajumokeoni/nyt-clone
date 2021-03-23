@@ -20,9 +20,19 @@ body,
 html {
   overflow-x: hidden;
 }
+.mobile-header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 69;
+  background-color: white;
+  padding-top: -10px;
+}
 
 .header-icons {
-  width: 100%;
+  background-color: white;
+  border-bottom: 1px solid rgb(221, 215, 215);
+  height: 45px;
   color: rgb(51, 51, 51);
   display: flex;
   align-items: center;
@@ -44,10 +54,14 @@ html {
   padding: 0 20px;
 }
 
+.side-buttons {
+  margin-right: 30px;
+}
+
 .subscribe {
   background-color: rgb(50, 104, 145);
   border: rgb(0, 60, 105);
-  padding: 7px 30px;
+  padding: 10px 25px;
   position: relative;
   font-size: 10px;
   color: white;
@@ -55,7 +69,7 @@ html {
 }
 
 .login {
-  padding: 7px 15px;
+  padding: 10px 10px;
   background-color: rgb(50, 104, 145);
   border: rgb(0, 60, 105);
   position: relative;
