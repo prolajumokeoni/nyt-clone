@@ -166,6 +166,7 @@ article {
   color: #567b95;
   text-decoration: underline;
 }
+
 .editor-aside {
   position: absolute;
   width: 20%;
@@ -254,7 +255,6 @@ article {
   font-size: 1rem;
 }
 
-
 .cosmos-img {
   padding-bottom: 30px;
 }
@@ -328,7 +328,7 @@ article {
 
 .captiton-title {
   padding-top: 10px;
-  font-size: .8rem;
+  font-size: 0.8rem;
 }
 
 .caption-body {
@@ -337,10 +337,13 @@ article {
 
 .see {
   padding-top: 50px;
+  color: #567b95;
 }
+
 .see-a {
   color: #567b95;
 }
+
 .most-popular {
   width: 24%;
   float: right;
@@ -373,10 +376,6 @@ article {
 
 .plus {
   margin-left: 20px;
-}
-
-.see {
-  color: #567b95;
 }
 
 .astronomy {
