@@ -230,13 +230,13 @@ article {
 
 .inflation-text {
   display: block;
-  margin-top: 16%;
+  margin-top: 17%;
   text-align: left;
   width: 24%;
   top: unset;
-  font-size: 20px;
+  font-size: 1.1rem;
   line-height: 1;
-  color: rgb(51, 51, 51);
+  color: rgb(34, 33, 33);
 }
 
 .article-hr {
@@ -429,6 +429,7 @@ footer {
   list-style: none;
   border-top-style: double;
   border-color: rgb(110, 108, 108);
+  border-bottom: 1px solid rgb(110, 108, 108);
 }
 
 .footer-top {
@@ -527,14 +528,14 @@ ul.sub-list li {
 }
 
 .bottom-list {
-  border-top: 1px solid rgb(110, 108, 108);
   display: flex;
   width: 100%;
+  margin-top: 10px;
 }
 
 .footer-text-1 {
-  text-align: left;
-  width: 15%;
+  text-align: right;
+  width: 20%;
 }
 
 .footer-items {
@@ -543,6 +544,7 @@ ul.sub-list li {
 }
 
 .footer-down {
+  width: 70%;
   text-align: end;
   margin: 0;
   padding-left: 0;
