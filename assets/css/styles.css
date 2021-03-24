@@ -59,6 +59,10 @@ html {
   padding: 0 20px;
 }
 
+.header-logo {
+  margin-right: 15px;
+}
+
 .side-buttons {
   margin-right: 30px;
 }
