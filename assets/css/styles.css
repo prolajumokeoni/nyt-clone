@@ -366,6 +366,56 @@ article {
   color: rgb(51, 51, 51);
 }
 
+.user-title {
+  color: rgb(194, 191, 191);
+  text-align: center;
+  font-size: 1.5rem;
+  padding-bottom: 5px;
+  font-family: tahoma;
+  background-color: #081d35;
+}
+textarea,
+input {
+  padding: 5px 50px;
+  margin-bottom: 10px;
+}
+
+label {
+  color: white;
+  padding: 15px;
+  font-size: 1.2rem;
+}
+.sub-form {
+  padding-left: 10px;
+}
+.user-form {
+  background-color:  rgb(50, 104, 145);
+  border-radius: 10px;
+  border: 7px solid  #081d35;
+  width: 300px;
+  text-align: center;
+  height: 500px;
+}
+
+
+.form-items {
+  padding-top: 10px;
+}
+
+.list-form {
+  display: inline;
+}
+
+.button {
+  transition-duration: 0.4s;
+}
+
+.button:hover {
+  background-color: #081d35;
+  color: white;
+  text-align: end;
+}
+
 .article-img {
   width: 60px;
   height: 60px;
