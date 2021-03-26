@@ -12,6 +12,8 @@
 ### Footer 
 ![fixedfooter](https://user-images.githubusercontent.com/69638013/112328661-d88d2f80-8cb6-11eb-99b6-9d5a9e6f8ac9.PNG)
 
+### Form
+![formsimage](https://user-images.githubusercontent.com/69638013/112629032-0d72c100-8e34-11eb-806e-0f891f7949ba.PNG)
 
 
 ## Built With
