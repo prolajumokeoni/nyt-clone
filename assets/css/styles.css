@@ -397,6 +397,9 @@ label {
   height: 500px;
 }
 
+input, input[placeholder] {
+  text-align: center;
+}
 
 .form-items {
   padding-top: 10px;
