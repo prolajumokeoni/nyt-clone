@@ -294,6 +294,7 @@ article {
   border-radius: 3px;
   border: 1px solid rgb(50, 104, 145);
   color: white;
+  transition-duration: 0.4s;
 }
 
 .bottom-article {
@@ -371,9 +372,9 @@ article {
   text-align: center;
   font-size: 1.5rem;
   padding-bottom: 5px;
-  font-family: tahoma;
   background-color: #081d35;
 }
+
 textarea,
 input {
   padding: 5px 50px;
@@ -385,11 +386,13 @@ label {
   padding: 15px;
   font-size: 1.2rem;
 }
+
 .sub-form {
   padding-left: 10px;
 }
+
 .user-form {
-  background-color:  rgb(50, 104, 145);
+  background-color: rgb(50, 104, 145);
   border-radius: 10px;
   border: 7px solid  #081d35;
   width: 300px;
@@ -397,7 +400,8 @@ label {
   height: 500px;
 }
 
-input, input[placeholder] {
+input,
+input[placeholder] {
   text-align: center;
 }
 
@@ -407,10 +411,6 @@ input, input[placeholder] {
 
 .list-form {
   display: inline;
-}
-
-.button {
-  transition-duration: 0.4s;
 }
 
 .button:hover {
